@@ -1,4 +1,4 @@
 module.exports = {
   root: true,
-  extends: ["rafaelsorto"],
+  extends: ["rafaelsortosv"],
 };
